@@ -1,21 +1,7 @@
 ### Hi there 👋
 
-I am Marcelo and I am a Data Engineer and enjoy working with Big Data, Streaming Data and I am devoted to automate everything apart from the creativity :)
+I am Marcelo and I am a Data Engineer and enjoy working with Big Data and Streaming Data. I am committed to automating everything apart from the creativity :)
 
-🔭 I am currently working on a DWH building pipelines with Python, SQL, AWS, Kubernetes, Docker, Terraform, Jenkins and Airflow.
-
-
-<!--
-**marcsopranzi/marcsopranzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🔭 I am currently working on DWH building pipelines with Python, SQL, AWS, Kubernetes, Docker, Terraform, Jenkins and Airflow.
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
